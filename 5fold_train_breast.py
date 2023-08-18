@@ -1,4 +1,3 @@
-../Mutation
 from torch.utils.tensorboard import SummaryWriter
 import torch, os, random, glob, json, datetime, itertools
 import torch.optim as optim
