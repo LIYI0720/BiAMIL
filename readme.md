@@ -1,10 +1,10 @@
-##BiAMIL
-Welcome to the BiAMIL Github repository!
+##MIAM-C
+Welcome to the MIAM-C Github repository!
 
-BiAMIL is a tool that predicts gene mutations through pathological images. It is built on bi-directed self-attention multi-instance learning.
-This repository contains all the relevant files related to the paper [“BiAMIL: Bi-directed self-attention multi-instance learning for BRCA1/2 gene mutations detection of breast cancer”].
+MIAM-C is a tool that predicts gene mutations through pathological images. It is built on bi-directed self-attention multi-instance learning.
+This repository contains all the relevant files related to the paper [“MIAM: Multi-Instance Attention Model for BRCA1/2 gene mutations detection of multiple cancer types”].
 
-Warning: BiAMIL is currently in a pre-development phase and may contain many bugs. It is recommended that you make copies of all datasets before using this application.
+Warning: MIAM-C is currently in a pre-development phase and may contain many bugs. It is recommended that you make copies of all datasets before using this application.
 
 1.###ROI_SegByTiles = Automatic ROI segmentation model
 --Train_roi_model.ipynb = Train the automatically segmentation model.
